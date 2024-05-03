@@ -1,0 +1,22 @@
+{
+  "name": "vercel",
+  "version": "1.0.0",
+  "description": "des",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"lol\\n\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian52575/versel-test.git"
+  },
+  "author": "rulian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian52575/versel-test/issues"
+  },
+  "homepage": "https://github.com/Julian52575/versel-test#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
